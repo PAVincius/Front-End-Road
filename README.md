@@ -25,15 +25,25 @@ Just two guys that love make cool things with code, aiming for learning more eac
 [Learn the Basics - JS](#Learn-the-Basics-JS)
 
 [Learn any CSS Framework](#Learn-any-CSS-Framework)
+
 [Learn any CSS Preprocessor mostly SASS and SCSS](#Learn-any-CSS-Preprocessor-mostly-SASS-and-SCSS)
+
 [Learn basic usage of Version Control System](#Learn-basic-usage-of-Version-Control-System)
+
 [Learn the basics of Package Managers](#Learn-the-basics-of-Package-Managers)
+
 [Pick a JavaScript Framework/Library](#Pick-a-JavaScript-Framework/Library)
+
 [Basic things to learn in React](#Basic-things-to-learn-in-React)
+
 [Important topic React-Hooks](#Important-topic-React-Hooks)
+
 [Learn some of the React UI Frameworks](#Learn-some-of-the-React-UI-Frameworks)
+
 [Learn to use popular React packages](#Learn-to-use-popular-React-packages)
+
 [Learn how to manage state in React with state management tools](#Learn-how-to-manage-state-in-React-with-state-management-tools)
+
 
 
 ## Learn the Basics - HTML
