@@ -56,57 +56,57 @@ Learn any CSS Framework- [x] Selectors
 
 ## Learn the basics - JavaScript
 
-- [] Basic Syntax
-- [] DOM Manipulation
-- [] Fetch API / Ajax
-- [] Async Await
-- [] Event Listeners
-- [] ES6+ JavaScript
-- [] Promises
-- [] Classes
-- [] Array Methods
-- [] Scoping
-- [] Hoisting
-- [] Closures
+- [ ] Basic Syntax
+- [ ] DOM Manipulation
+- [ ] Fetch API / Ajax
+- [ ] Async Await
+- [ ] Event Listeners
+- [ ] ES6+ JavaScript
+- [ ] Promises
+- [ ] Classes
+- [ ] Array Methods
+- [ ] Scoping
+- [ ] Hoisting
+- [ ] Closures
 
 ## Learn any CSS Framework
 
-- [] Bootstrap
-- [] Tailwind
+- [ ] Bootstrap
+- [ ] Tailwind
 
 ## Learn any CSS Preprocessor mostly SASS and SCSS
 
-- [] SASS / SCSS
+- [ ] SASS / SCSS
 
 ## Learn basic usage of Version Control System
 
-- [] Git
-- [] GitHub
+- [ ] Git
+- [ ] GitHub
 
 ## Pick a JavaScript Framework/Library
 
-- [] React
-- [] Vue
-- [] Angular
+- [ ] React
+- [ ] Vue
+- [ ] Angular
 
 ## Basic things to learn in React
 
-- [] Components
-- [] JSX
-- [] Props
-- [] State
-- [] Events
-- [] Conditional Rendering
+- [ ] Components
+- [ ] JSX
+- [ ] Props
+- [ ] State
+- [ ] Events
+- [ ] Conditional Rendering
 
 ## Important topic React-Hooks
 
-- [] useState
-- [] useEffect
-- [] useRef
-- [] useContext
-- [] useReducer
-- [] userMemo
-- [] useCallback
+- [ ] useState
+- [ ] useEffect
+- [ ] useRef
+- [ ] useContext
+- [ ] useReducer
+- [ ] userMemo
+- [ ] useCallback
 
 
 
