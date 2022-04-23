@@ -18,7 +18,7 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ## Summary
 
-[Learn the Basics - HTML](#Learn-the-Basics-HTML)<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg" width="14" height="14">
+[Learn the Basics - HTML](#Learn-the-Basics-HTML)<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg" width="14" height="14" color="white">
 [Learn the Basics - CSS](#Learn-the-Basics-CSS)
 [Learn the Basics - JS](#Learn-the-Basics-JS)
 [Learn any CSS Framework](#Learn-any-CSS-Framework)
