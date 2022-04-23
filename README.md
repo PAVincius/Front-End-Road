@@ -23,5 +23,5 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ## Learn the Basics - HTML
 
-- [ ] Basics
+- [x] Basics
 - [ ] Emmet
