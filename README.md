@@ -6,5 +6,7 @@
 
 We'll use the Front-End Developer RoadMap from  [JavaScript Mastery](https://taplink.cc/javascriptmastery), while learning through this guide we'll post those topics here.
 
-## And what the hell are we? 😏 
+## And what the hell are we? 😏
+
+![profiles](https://github.com/PAVincius/Front-End-Road/blob/main/img/profiles.png)
 
