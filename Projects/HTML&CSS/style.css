@@ -62,8 +62,8 @@ body{
 }
 
 .menu__button:hover{
-    transform: scale(1.20);
-    transition: 300ms;
+    transform: scale(1.10);
+    transition: 200ms;
     box-shadow: 5px 5px 10px rgba(253, 54, 54, 0.671);
 }
 
