@@ -14,6 +14,6 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ## How will it work?
 
-![profiles](https://github.com/PAVincius/Front-End-Road/blob/main/img/profiles.png)
+![profiles](https://github.com/PAVincius/Front-End-Road/blob/main/img/process.png)
 
 
