@@ -47,7 +47,7 @@ Just two guys that love make cool things with code, aiming for learning more eac
 [Things to learn after learning React](#Things-to-learn-after-learning-React)
 
 
-## Learn the Basics - HTML [(projects)](/tree/main/Projects/HTML)
+## Learn the Basics - HTML [(projects)](/Projects/HTML)
 
 - [x] Basics
 - [X] Emmet
