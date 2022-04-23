@@ -16,4 +16,5 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ![profiles](https://github.com/PAVincius/Front-End-Road/blob/main/img/process.png)
 
+## Summary
 
