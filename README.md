@@ -18,9 +18,12 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ## Summary
 
-[Learn the Basics - HTML](#Learn-the-Basics-HTML)<span class="iconify" data-icon="ant-design:html5-filled" style="color: red;" data-width="14" data-height="14"></span>
+[Learn the Basics - HTML](#Learn-the-Basics-HTML)
+
 [Learn the Basics - CSS](#Learn-the-Basics-CSS)
+
 [Learn the Basics - JS](#Learn-the-Basics-JS)
+
 [Learn any CSS Framework](#Learn-any-CSS-Framework)
 [Learn any CSS Preprocessor mostly SASS and SCSS](#Learn-any-CSS-Preprocessor-mostly-SASS-and-SCSS)
 [Learn basic usage of Version Control System](#Learn-basic-usage-of-Version-Control-System)
@@ -29,14 +32,15 @@ Just two guys that love make cool things with code, aiming for learning more eac
 [Basic things to learn in React](#Basic-things-to-learn-in-React)
 [Important topic React-Hooks](#Important-topic-React-Hooks)
 [Learn some of the React UI Frameworks](#Learn-some-of-the-React-UI-Frameworks)
-
+[Learn to use popular React packages](#Learn-to-use-popular-React-packages)
+[Learn how to manage state in React with state management tools](#Learn-how-to-manage-state-in-React-with-state-management-tools)
 
 
 ## Learn the Basics - HTML
 
 - [x] Basics
 - [X] Emmet
-- [X] Forms
+- [X] Forms 
 - [X] Semantic HTML
 - [X] SEO Basics
 
@@ -83,6 +87,10 @@ Learn any CSS Framework- [x] Selectors
 - [ ] Git
 - [ ] GitHub
 
+## Learn the basics of Package Managers
+- [ ] NPM
+- [ ] Yarn
+
 ## Pick a JavaScript Framework/Library
 
 - [ ] React
@@ -108,6 +116,26 @@ Learn any CSS Framework- [x] Selectors
 - [ ] userMemo
 - [ ] useCallback
 
+## Learn some of the React UI Frameworks
 
+- [ ] Material UI
+- [ ] Ant Design
+- [ ] Chakra UI
+
+## Learn to use popular React packages
+
+- [ ] React Router
+- [ ] React Query
+- [ ] Axios
+- [ ] React Hook Form
+- [ ] Styled Components
+- [ ] Storybook
+- [ ] Framer Motion
+
+## Learn how to manage state in React with state management tools
+
+- [ ] Redux
+- [ ] MobX
+- [ ] Hookstate
 
 
