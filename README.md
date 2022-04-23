@@ -1,4 +1,4 @@
-# elcome to our Front-End-Road Repo 🎉
+# Welcome to our Front-End-Road Repo 🎉
 
 ## Here we'll be showing our journey into the front-end world, zero to hero, hoping that it consolidates our expertise and encourage people to follow that road.
 
