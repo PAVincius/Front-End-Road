@@ -44,6 +44,7 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 [Learn how to manage state in React with state management tools](#Learn-how-to-manage-state-in-React-with-state-management-tools)
 
+[Things to learn after learning React](#Things-to-learn-after-learning-React)
 
 
 ## Learn the Basics - HTML
@@ -56,7 +57,8 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ## Learn the Basics - CSS
 
-Learn any CSS Framework- [x] Selectors
+- [x] Basics
+- [x] Selectors
 - [x] Positioning
 - [x] Box Model
 - [x] Display
@@ -147,5 +149,3 @@ Learn any CSS Framework- [x] Selectors
 - [ ] Redux
 - [ ] MobX
 - [ ] Hookstate
-
-
