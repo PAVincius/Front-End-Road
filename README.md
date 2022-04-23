@@ -18,10 +18,96 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ## Summary
 
-[Learn the Basics - HTML](#Learn-the-Basics-HTML)
+[Learn the Basics - HTML](#Learn-the-Basics-HTML)<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg" width="14" height="14">
 [Learn the Basics - CSS](#Learn-the-Basics-CSS)
+[Learn the Basics - JS](#Learn-the-Basics-JS)
+[Learn any CSS Framework](#Learn-any-CSS-Framework)
+[Learn any CSS Preprocessor mostly SASS and SCSS](#Learn-any-CSS-Preprocessor-mostly-SASS-and-SCSS)
+[Learn basic usage of Version Control System](#Learn-basic-usage-of-Version-Control-System)
+[Learn the basics of Package Managers](#Learn-the-basics-of-Package-Managers)
+[Pick a JavaScript Framework/Library](#Pick-a-JavaScript-Framework/Library)
+[Basic things to learn in React](#Basic-things-to-learn-in-React)
+[Important topic React-Hooks](#Important-topic-React-Hooks)
+[Learn some of the React UI Frameworks](#Learn-some-of-the-React-UI-Frameworks)
+
+
 
 ## Learn the Basics - HTML
 
 - [x] Basics
-- [ ] Emmet
+- [X] Emmet
+- [X] Forms
+- [X] Semantic HTML
+- [X] SEO Basics
+
+## Learn the Basics - CSS
+
+Learn any CSS Framework- [x] Selectors
+- [x] Positioning
+- [x] Box Model
+- [x] Display
+- [x] Specificity
+- [x] FlexBox
+- [x] Grid
+- [x] Media Queries
+- [x] Pseudo Elements
+- [x] Pseudo Classes
+- [x] Animations
+
+## Learn the basics - JavaScript
+
+- [] Basic Syntax
+- [] DOM Manipulation
+- [] Fetch API / Ajax
+- [] Async Await
+- [] Event Listeners
+- [] ES6+ JavaScript
+- [] Promises
+- [] Classes
+- [] Array Methods
+- [] Scoping
+- [] Hoisting
+- [] Closures
+
+## Learn any CSS Framework
+
+- [] Bootstrap
+- [] Tailwind
+
+## Learn any CSS Preprocessor mostly SASS and SCSS
+
+- [] SASS / SCSS
+
+## Learn basic usage of Version Control System
+
+- [] Git
+- [] GitHub
+
+## Pick a JavaScript Framework/Library
+
+- [] React
+- [] Vue
+- [] Angular
+
+## Basic things to learn in React
+
+- [] Components
+- [] JSX
+- [] Props
+- [] State
+- [] Events
+- [] Conditional Rendering
+
+## Important topic React-Hooks
+
+- [] useState
+- [] useEffect
+- [] useRef
+- [] useContext
+- [] useReducer
+- [] userMemo
+- [] useCallback
+
+
+
+
