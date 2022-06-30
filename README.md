@@ -88,7 +88,7 @@ Just two guys that love make cool things with code, aiming for learning more eac
 ## Learn any CSS Framework
 
 - [x] Bootstrap
-- [] Tailwind
+- [ ] Tailwind
 
 ## Learn any CSS Preprocessor mostly SASS and SCSS
 
