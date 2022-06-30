@@ -72,27 +72,27 @@ Just two guys that love make cool things with code, aiming for learning more eac
 
 ## Learn the basics - JavaScript
 
-- [ ] Basic Syntax
-- [ ] DOM Manipulation
-- [ ] Fetch API / Ajax
-- [ ] Async Await
-- [ ] Event Listeners
-- [ ] ES6+ JavaScript
-- [ ] Promises
-- [ ] Classes
-- [ ] Array Methods
-- [ ] Scoping
-- [ ] Hoisting
-- [ ] Closures
+- [x] Basic Syntax
+- [x] DOM Manipulation
+- [x] Fetch API / Ajax
+- [x] Async Await
+- [x] Event Listeners
+- [x] ES6+ JavaScript
+- [x] Promises
+- [x] Classes
+- [x] Array Methods
+- [x] Scoping
+- [x] Hosting
+- [x] Closures
 
 ## Learn any CSS Framework
 
-- [ ] Bootstrap
-- [ ] Tailwind
+- [x] Bootstrap
+- [] Tailwind
 
 ## Learn any CSS Preprocessor mostly SASS and SCSS
 
-- [ ] SASS / SCSS
+- [x] SASS / SCSS
 
 ## Learn basic usage of Version Control System
 
