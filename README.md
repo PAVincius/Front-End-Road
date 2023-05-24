@@ -55,7 +55,7 @@ Just two guys that love make cool things with code, aiming for learning more eac
 - [X] Semantic HTML
 - [X] SEO Basics
 
-###Recommended Course
+### Recommended Course
 (https://www.w3schools.com/html/)
 
 ## Learn the Basics - CSS
@@ -73,7 +73,7 @@ Just two guys that love make cool things with code, aiming for learning more eac
 - [x] Pseudo Classes
 - [x] Animations
 
-###Recommended Course
+### Recommended Course
 
 https://www.freecodecamp.org/news/follow-these-steps-to-become-a-css-superstar-837cd6cb9b1a/
 
@@ -92,7 +92,7 @@ https://www.freecodecamp.org/news/follow-these-steps-to-become-a-css-superstar-8
 - [x] Hosting
 - [x] Closures
 
-###Recommended Course
+### Recommended Course
 https://masteringjs.io/
 
 ## Learn any CSS Framework
@@ -100,7 +100,7 @@ https://masteringjs.io/
 - [x] [Bootstrap](https://getbootstrap.com/)
 - [ ] [Tailwind](https://tailwindcss.com/)
 
-###Recommended Course
+### Recommended Course
 https://www.beginnertailwind.com/
 
 ## Learn any CSS Preprocessor mostly SASS and SCSS
@@ -115,7 +115,7 @@ https://dev.to/nnekajenny/mastering-sass-tips-and-tricks-for-efficient-workflow-
 - [ ] [Git](https://git-scm.com/)
 - [ ] [GitHub](https://docs.github.com/)
 
-###Recommended Course
+### Recommended Course
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 
